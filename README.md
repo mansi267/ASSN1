@@ -14,4 +14,5 @@ o	fhandling2.cpp
 In this file I have made a two-dimensional array whose ith index which is 25 and total jth index will be of columns which is 10 and in this two-dimensional array I will store every marks of the individual student. Like example: 0,1,2,3,4… and then I will find the average of the scores taking the average of ith index only. Example calculating the average of 25 students for one exam (vertically) likewise for all 10 exams. And now for grade another two dimensional array will is made named grade[] and the same marks will be iterated and all the three conditions will be checked and whichever grade will be obtained will be appended in the two-dimensional array according to the marks comparing a particular marks in greater then the average (i.e. linear array) and in the end whole output will be displayed in the file
 
 o	isnum.h
+
 This is a header file which is used in both the cpp files and this header includes a function called isNumber().This is a Boolean function .i.e this function will return True or False as per the conditions to be fulfilled .i.e will check whether the input string contains number or not
